@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "purescript-picosat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "pulp build",
+    "test": "pulp test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "picosat": "^1.0.2"
+  },
+  "devDependencies": {
+    "pulp": "^12.0.1",
+    "rimraf": "^2.6.2"
+  }
+}

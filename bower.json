@@ -1,0 +1,29 @@
+{
+  "name": "purescript-picosat",
+  "homepage": "https://github.com/dirkschumacher/purescript-picosat",
+  "authors": [
+    "Dirk Schumacher <mail@dirk-schumacher.net>"
+  ],
+  "description": "PicoSAT SAT solver",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dirkschumacher/purescript-picosat.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.1.1",
+    "purescript-console": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}

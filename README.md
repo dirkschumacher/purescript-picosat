@@ -1,5 +1,5 @@
 # purescript-picosat
-WIP: picosat bindings in purescript
+WIP: picosat bindings in purescript. I use this project to learn about purescript.
 
 
 ## Example
